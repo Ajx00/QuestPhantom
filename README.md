@@ -109,14 +109,14 @@ Once invited, use slash commands to configure the bot and choose which channel r
 >
 
 > [!CAUTION]
-> As of April 7, 2026, Discord has announced plans to take stricter action against automated quest completion.
+> As of April 7th 2026, Discord has expressed their intent to crack down on automating quest completion.
 > 
-> Some users have already received the following system message:
+> Some users have received the following system message:
 > 
-> <img width="836" height="272" alt="image" src="https://github-production-user-asset-6210df.s3.amazonaws.com/9750071/574947159-6b439f4b-4381-4524-8540-b6a4777a80d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260408%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260408T212710Z&X-Amz-Expires=300&X-Amz-Signature=7b65dec78aced394e1df64ed33155d19627c618cd259d6e6617b1d8a47bb8e8d&X-Amz-SignedHeaders=host" />
+> <img width="836" height="272" alt="image" src="https://gist.github.com/user-attachments/assets/6b439f4b-4381-4524-8540-b6a4777a80d0" />
 > 
-> Use this script at your own risk.
-> 
+> There isn't much I can do to make the script undetected, so use it at your own risk, as you most likely WILL get flagged by doing so.
+
 ---
 
 ## 📝 License
