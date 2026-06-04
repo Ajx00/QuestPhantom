@@ -1,7 +1,6 @@
 # <img src="https://i.imgur.com/PF8Tq4C.png" width="50" alt="QuestPhantom">  QuestPhantom
 
-> **Automate Discord Quests efficiently** with this powerful JavaScript console script.
-
+> **Automate Discord Quests efficiently** with this powerful JavaScript console script.<br> [QuestPhantomGUI Version for Windows](https://github.com/SimpliAj/QuestPhantomGUI)
 ---
 
 ## 📋 Overview
